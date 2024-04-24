@@ -1,0 +1,23 @@
+/* Add color styles */
+body {
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+.header, .footer {
+    background-color: #444;
+    color: #fff;
+}
+
+.nav-menu a, .footerChild2 ul a {
+    color: #fff;
+}
+
+.nav-menu a:hover, .footerChild2 ul a:hover {
+    color: #ccc;
+}
+
+/* Hide images */
+img {
+    display: none;
+}
